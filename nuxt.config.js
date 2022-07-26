@@ -1,6 +1,7 @@
 import {
   version,
 } from './package';
+import modulesConfig from './modules.config.js';
 
 const IS_DEV = process.env.NODE_ENV !== 'production';
 
@@ -70,6 +71,8 @@ export default {
     vuex: true,
     isDev: process.env.NODE_ENV !== 'production',
     logLoadedModules: process.env.NODE_ENV !== 'production',
+    required: modulesConfig.required,
+    modules: modulesConfig,
   },
 
   vue: {
