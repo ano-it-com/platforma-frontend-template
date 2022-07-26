@@ -125,6 +125,12 @@ export default {
   build: {
     extractCSS: true,
 
+    babel: {
+      plugins: [
+        '@babel/plugin-proposal-optional-chaining',
+      ],
+    },
+
     extend(config, {
       isDev,
       isClient,
