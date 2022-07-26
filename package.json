@@ -30,6 +30,7 @@
     "normalize.css": "^8.0.1",
     "nuxt": "^2.15.7",
     "vue": "^2.6.14",
+    "vue-template-babel-compiler": "^1.2.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
