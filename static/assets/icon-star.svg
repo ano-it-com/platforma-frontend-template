@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.564" height="63.564" viewBox="0 0 63.564 63.564">
+  <g id="Group_6" data-name="Group 6" transform="translate(1.352 1.352)">
+    <path id="Oval" d="M22.5,45A22.513,22.513,0,1,0,7.886,39.608" transform="matrix(0.469, -0.883, 0.883, 0.469, 0, 39.733)" fill="none" stroke="#9db9d1" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Star" d="M13.5,20.25,5.565,24.422,7.08,15.586.661,9.328,9.532,8.039,13.5,0l3.968,8.039,8.872,1.289-6.42,6.258,1.515,8.836Z" transform="translate(16.929 16.929)" fill="none" stroke="#9db9d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="56px" viewBox="0 0 55 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Files / Pdf Copy 2</title>
+    <defs>
+        <rect id="path-1" x="9" y="0" width="46" height="56" rx="2"></rect>
+        <filter x="-15.2%" y="-8.9%" width="130.4%" height="125.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0485959353 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icons-/-Files-/-Pdf-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <rect stroke="#EBEFF6" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="9.5" y="0.5" width="45" height="55" rx="2"></rect>
+        </g>
+        <rect id="Rectangle" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="19.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="19.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="23.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-17" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="22.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="26.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-18" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="26.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="30.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-19" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="30.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-5" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="34.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-20" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="33.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="37.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-21" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="37.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="19.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="23.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="26.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="30.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-5" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="34.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="37.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="19.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="23.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="26.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="30.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-5" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="34.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-6" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="37.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-16" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="41.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-22" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="41.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-15" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="44.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-23" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="44.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-14" stroke="#EAEAEA" stroke-width="0.3" x="25.15" y="48.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-24" stroke="#EAEAEA" stroke-width="0.3" fill="#EAEAEA" x="17.15" y="48.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-13" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="41.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-12" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="44.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-10" stroke="#EAEAEA" stroke-width="0.3" x="33.15" y="48.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-9" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="41.15" width="7.7" height="2.7"></rect>
+        <rect id="Rectangle-Copy-8" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="44.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-7" stroke="#EAEAEA" stroke-width="0.3" x="41.15" y="48.15" width="7.7" height="3.7"></rect>
+        <rect id="Rectangle-Copy-11" fill="#EAEAEA" x="17" y="6.09090909" width="32" height="7"></rect>
+        <g id="Group" transform="translate(0.000000, 38.000000)">
+            <path d="M19,9.16666667 C19,9.625 18.64375,10 18.2083333,10 L0.791666667,10 C0.35625,10 0,9.625 0,9.16666667 L0,0.833333333 C0,0.375 0.35625,0 0.791666667,0 L18.2083333,0 C18.64375,0 19,0.375 19,0.833333333 L19,9.16666667 Z" id="Path" fill="#17854B" fill-rule="nonzero"></path>
+            <text id="XLS" font-family="Rubik-Medium, Rubik" font-size="7" font-weight="400" line-spacing="7" letter-spacing="0.252661" fill="#FFFFFF">
+                <tspan x="1" y="8.5"> XLS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+vendor/
+.history/
+.vscode/
+modules.config.js
+package.json
+package-lock.json
+README.md
+static

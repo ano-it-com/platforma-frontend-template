@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg359"
+   sodipodi:docname="icon-table-edit.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview361"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="40.35"
+     inkscape:cx="5.0309789"
+     inkscape:cy="10"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g355" />
+  <defs
+     id="defs341">
+    <clipPath
+       id="4zlxa">
+      <path
+         fill="#fff"
+         d="M4.969 15.06V.91H19.02v14.15zM17.173 5.049l-2.242-2.243.505-.505a1.19 1.19 0 0 1 1.683 0l.56.559a1.192 1.192 0 0 1 0 1.684zM6.856 11.332l1.792 1.791-2.478.687zm.448-.9l6.953-6.952L16.5 5.722l-6.953 6.953zm10.489-8.804a2.143 2.143 0 0 0-3.03 0l-8.496 8.495a.476.476 0 0 0-.122.21l-1.118 4.033a.476.476 0 0 0 .586.586l4.034-1.117a.476.476 0 0 0 .21-.122l8.495-8.496a2.145 2.145 0 0 0 0-3.03z"
+         id="path338" />
+    </clipPath>
+  </defs>
+  <g
+     id="g357">
+    <g
+       id="g355">
+      <g
+         opacity=".3"
+         id="g345">
+        <path
+           fill="none"
+           stroke="#cedce7"
+           stroke-linecap="round"
+           stroke-miterlimit="20"
+           d="M9.026 3.5v0H5.683v0H2.5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6.45 0"
+           id="path343" />
+      </g>
+      <g
+         id="g353"
+         style="fill:#9db9d1;fill-opacity:1;stroke:none;stroke-opacity:1">
+        <g
+           id="g351"
+           style="fill:#9db9d1;fill-opacity:1;stroke:none;stroke-opacity:1">
+          <path
+             d="M17.173 5.049l-2.242-2.243.505-.505a1.19 1.19 0 0 1 1.683 0l.56.559a1.192 1.192 0 0 1 0 1.684zM6.856 11.332l1.792 1.791-2.478.687zm.448-.9l6.953-6.952L16.5 5.722l-6.953 6.953zm10.489-8.804a2.143 2.143 0 0 0-3.03 0l-8.496 8.495a.476.476 0 0 0-.122.21l-1.118 4.033a.476.476 0 0 0 .586.586l4.034-1.117a.476.476 0 0 0 .21-.122l8.495-8.496a2.145 2.145 0 0 0 0-3.03z"
+             id="path347"
+             style="fill:#9db9d1;fill-opacity:1;stroke:none;stroke-opacity:1" />
+          <path
+             fill="none"
+             stroke="#979797"
+             stroke-miterlimit="20"
+             stroke-width=".2"
+             d="M17.173 5.049l-2.242-2.243.505-.505a1.19 1.19 0 0 1 1.683 0l.56.559a1.192 1.192 0 0 1 0 1.684zM6.856 11.332l1.792 1.791-2.478.687zm.448-.9l6.953-6.952L16.5 5.722l-6.953 6.953zm10.489-8.804a2.143 2.143 0 0 0-3.03 0l-8.496 8.495a.476.476 0 0 0-.122.21l-1.118 4.033a.476.476 0 0 0 .586.586l4.034-1.117a.476.476 0 0 0 .21-.122l8.495-8.496a2.145 2.145 0 0 0 0-3.03z"
+             clip-path="url(&quot;#4zlxa&quot;)"
+             id="path349"
+             style="fill:#9db9d1;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

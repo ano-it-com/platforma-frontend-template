@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M6,0 C8.209139,0 10,1.790861 10,4 L10,5 C11.1045695,5 12,5.8954305 12,7 L12,13 C12,14.1045695 11.1045695,15 10,15 L2,15 C0.8954305,15 0,14.1045695 0,13 L0,7 C0,5.8954305 0.8954305,5 2,5 L2,4 C2,1.790861 3.790861,0 6,0 Z M6,8.5 C5.44771525,8.5 5,8.94771525 5,9.5 C5,9.87008772 5.20104123,10.1932197 5.4998705,10.3661429 L5.4998705,10.3661429 L5.5,11 C5.5,11.2761424 5.72385763,11.5 6,11.5 C6.27614237,11.5 6.5,11.2761424 6.5,11 L6.5,11 L6.5011143,10.3655723 C6.79940038,10.1925095 7,9.86968103 7,9.5 C7,8.94771525 6.55228475,8.5 6,8.5 Z M6,1.6 C4.72974508,1.6 3.68997876,2.58683903 3.60553687,3.83568127 L3.6,4 L3.6,4.9 L8.4,4.9 L8.4,4 C8.4,2.72974508 7.41316097,1.68997876 6.16431873,1.60553687 L6,1.6 Z" id="path-1"></path>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.-Группы-пользователей-Copy-9" transform="translate(-176.000000, -537.000000)">
+            <g id="Group" transform="translate(173.000000, 537.000000)">
+                <g id="Brans/Color/Primary" transform="translate(3.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Group" mask="url(#mask-2)">
+                        <g transform="translate(-4.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="20" height="16"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="56px" viewBox="0 0 55 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Files / Pdf Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="46" height="56" rx="2"></rect>
+        <filter x="-15.2%" y="-8.9%" width="130.4%" height="125.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0485959353 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icons-/-Files-/-Pdf-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle" transform="translate(9.000000, 0.000000)">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <rect stroke="#EBEFF6" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="45" height="55" rx="2"></rect>
+        </g>
+        <g id="Group-2" transform="translate(17.000000, 6.090909)" fill="#EAEAEA">
+            <g id="Group" transform="translate(0.000000, 12.909091)" stroke="#EAEAEA" stroke-width="0.3">
+                <rect id="Rectangle-Copy-2" x="0.15" y="0.15" width="2.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-3" x="6.15" y="0.15" width="25.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-18" x="0.15" y="7.15" width="2.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-19" x="6.15" y="7.15" width="16.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-20" x="0.15" y="14.15" width="2.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-21" x="6.15" y="14.15" width="25.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-22" x="0.15" y="21.15" width="2.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-25" x="6.15" y="21.15" width="20.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-24" x="0.15" y="28.15" width="2.7" height="3.7"></rect>
+                <rect id="Rectangle-Copy-27" x="6.15" y="28.15" width="16.7" height="3.7"></rect>
+            </g>
+            <rect id="Rectangle-Copy-11" x="0" y="0" width="32" height="7"></rect>
+        </g>
+        <path d="M19,47.1666667 C19,47.625 18.64375,48 18.2083333,48 L0.791666667,48 C0.35625,48 0,47.625 0,47.1666667 L0,38.8333333 C0,38.375 0.35625,38 0.791666667,38 L18.2083333,38 C18.64375,38 19,38.375 19,38.8333333 L19,47.1666667 Z" id="Path" fill="#2871C8" fill-rule="nonzero"></path>
+        <text id="DOC" font-family="Rubik-Medium, Rubik" font-size="7" font-weight="400" line-spacing="7" letter-spacing="0.252661" fill="#FFFFFF">
+            <tspan x="2" y="46.5">DOC</tspan>
+        </text>
+    </g>
+</svg>
