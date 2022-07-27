@@ -125,17 +125,6 @@ export default {
   build: {
     extractCSS: true,
 
-    loaders: {
-      vue: {
-        compiler: require('vue-template-babel-compiler'),
-      },
-    },
-    babel: {
-      plugins: [
-        '@babel/plugin-proposal-optional-chaining',
-      ],
-    },
-
     extend(config, {
       isDev,
       isClient,
