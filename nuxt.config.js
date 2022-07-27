@@ -57,7 +57,7 @@ export default {
     '@nuxtjs/google-fonts',
     '@nuxtjs/eslint-module',
     '@nuxtjs/stylelint-module',
-    '@ergonode/vuems',
+    'platforma-modular',
     '@nuxtjs/router',
   ],
 
