@@ -91,7 +91,6 @@ export default {
         maxAge: 1000 * 60 * 60,
       },
     ],
-    'cookie-universal-nuxt',
   ],
 
   axios: {},
