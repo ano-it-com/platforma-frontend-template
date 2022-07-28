@@ -1,4 +1,4 @@
-import modulesMiddlewares from '~/.nuxt/middleware.modules';
+import modulesMiddlewares from './middleware.modules';
 
 export default (ctx) => {
   modulesMiddlewares(ctx);
