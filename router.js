@@ -3,7 +3,7 @@ import VueRouter from 'vue-router';
 
 import {
   extendRoutes,
-} from './routerHelper.modules';
+} from '~/.nuxt/routerHelper.modules';
 
 Vue.use(VueRouter);
 
