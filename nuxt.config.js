@@ -9,6 +9,7 @@ export default {
   ssr: true,
   dev: IS_DEV,
   debug: IS_DEV,
+  buildDir: '.nuxt',
   head: {
     title: 'platforma-skeleton',
     meta: [
